@@ -2,6 +2,8 @@
 
 Composer repository
 
+a swiftmailer package
+
 # Install
 
 composer install
