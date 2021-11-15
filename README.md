@@ -2,5 +2,6 @@
 
 Composer repository
 
-# Installer
+# Install
 
+composer install
