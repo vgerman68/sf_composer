@@ -1,8 +1,6 @@
 # sf_composer
 
-Composer repository
-
-a swiftmailer package
+B4.3.7 task a swiftmailer package
 
 # Install
 
